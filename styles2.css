@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin:0;
+}
+body{
+    background-color: #92009a21;
+}
+nav{
+    background-color:#3e009a75;
+    height: 7vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+nav li{
+    display: inline;
+    margin: 15px;
+    font-size: 1.5rem;
+}
+nav a{
+    text-decoration: none;
+    color:black;
+}
+.heading{
+    background-color:#5b428175;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 8vh;
+}
+p,.answers li{
+    margin: 20px;
+}
